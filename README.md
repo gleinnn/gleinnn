@@ -5,7 +5,7 @@ I've been making little programming projects in my spare time since primary scho
 
 ## Things I can do 🤔
 Programming Languages:
-- Python
+- Python 🐍
 - C
 - C#
 
