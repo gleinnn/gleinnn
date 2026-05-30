@@ -13,6 +13,8 @@ Programs I've used:
 - VSCode
 - Arduino IDE
 - Unity
+- Blender
+- Fusion 360
 
 
 <!--
